@@ -2,12 +2,8 @@
 
 ##
 This API connects to an Amazon RDS MySQL database that has been populated with data from the CMS API.
-Submit GET requests for the requests fields in JSON format and a JSON object will be returned, reference 
-below request.
-
-When run locally navigate to http://localhost:5000/apidocs/ to access SWAGGER-UI API docs.
-
-This API is also set up on an AWS EC2 instance using docker for containerization.
+Submit GET requests for the desired endpoint in JSON format and a JSON object will be returned, reference 
+below example.
 
 ### Valid URLs:
 ```
